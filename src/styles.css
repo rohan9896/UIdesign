@@ -110,6 +110,10 @@ nav > p,
   margin: 0.5rem;
 }
 
+.app-btn:hover {
+  transform: scale(1.05);
+}
+
 .btn-grey {
   background-color: rgb(175, 172, 172);
 }
